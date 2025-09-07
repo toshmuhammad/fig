@@ -1,4 +1,4 @@
-/* .dropdown {
+.dropdown {
   position: relative;
   display: inline-block;
   margin: 10px;
@@ -48,4 +48,4 @@
 .clear:hover {
   background: #ffecec;
   border-radius: 4px;
-} */
+}
