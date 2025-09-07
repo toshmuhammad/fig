@@ -3,3 +3,4 @@ export { default as About } from "./About";
 export { default as Recipe } from "./Recipe";
 export { default as Recipes } from "./Recipes";
 export { default as Input } from "./Input";
+export { default as Search } from "./Search";

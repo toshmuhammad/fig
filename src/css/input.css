@@ -37,15 +37,15 @@
   border-radius: 4px;
 }
 
+.min {
+  font-size: 18px;
+}
+
 .clear {
   display: block;
   margin-top: 6px;
   padding: 6px;
-  color: red;
+  color: #293241;
+  font-size: 16px;
   cursor: pointer;
-}
-
-.clear:hover {
-  background: #ffecec;
-  border-radius: 4px;
 }

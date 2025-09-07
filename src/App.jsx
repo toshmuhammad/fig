@@ -1,5 +1,5 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import { About, Home, Recipe, Recipes, Input } from "./pages";
+import { About, Home, Recipe, Recipes, Input, Search } from "./pages";
 
 import MainLayout from "./layouts/MainLayout"
 
@@ -28,6 +28,10 @@ function App() {
         {
           path: "input",
           element: <Input />,
+        },
+        {
+          path: "search",
+          element: <Search />,
         },
       ],
     },
